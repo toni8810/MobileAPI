@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: MobileAPI
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: root
+Implementation-Vendor-Id: mobile.rest.api
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/MobileAPI/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
